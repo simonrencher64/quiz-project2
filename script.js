@@ -137,7 +137,7 @@ $(document).ready(function() {
        $("#34").addClass("selected");
    });
    $("#submit3").click(function() {
-       if($("#32").hasClass("selected")){
+       if($("#34").hasClass("selected")){
            $("#submit3").addClass("hidden");
            $("#wrong3").addClass("hidden");
            $("#correct3").removeClass("hidden");
@@ -193,7 +193,7 @@ $(document).ready(function() {
        $("#44").addClass("selected");
    });
    $("#submit4").click(function() {
-       if($("#42").hasClass("selected")){
+       if($("#43").hasClass("selected")){
            $("#submit4").addClass("hidden");
            $("#wrong4").addClass("hidden");
            $("#correct4").removeClass("hidden");
