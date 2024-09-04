@@ -108,12 +108,11 @@ $(document).ready(function() {
        $("#34").removeClass("hidden");
        $("#submit3").removeClass("hidden");
    });
-});
 
 
 
 
-$("#31").click(function() {
+   $("#31").click(function() {
        $("#31").addClass("selected");
        $("#32").removeClass("selected");
        $("#33").removeClass("selected");
