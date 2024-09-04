@@ -212,12 +212,12 @@ $("#31").click(function() {
        $("#continue4").addClass("hidden");
        $("#q4").addClass("hidden");
 
-       $("#q5").removeClass("hidden");
-       $("#51").removeClass("hidden");
-       $("#52").removeClass("hidden");
-       $("#53").removeClass("hidden");
-       $("#54").removeClass("hidden");
-       $("#submit5").removeClass("hidden");
+       //$("#q5").removeClass("hidden");
+       //$("#51").removeClass("hidden");
+       //$("#52").removeClass("hidden");
+       //$("#53").removeClass("hidden");
+       //$("#54").removeClass("hidden");
+       //$("#submit5").removeClass("hidden");
    });
 
 });
